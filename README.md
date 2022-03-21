@@ -24,5 +24,9 @@ Not have:
 - custom borders
 - united cells
 
+## Live Sample
+
+https://kanryu.github.io/canvas-datagrid2/
+
 Copyright © 2022 KATO Kanryu All rights reserved.
 
